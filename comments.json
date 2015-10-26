@@ -4,7 +4,23 @@
         "text": "Hey there!"
     },
     {
+        "author": "Mike Roch",
+        "text": "Woohooo!"
+    },
+    {
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "author": "Kevin",
+        "text": "Yahoo!"
+    },
+    {
+        "author": "Bruce",
+        "text": "Wayne"
+    },
+    {
+        "author": "Blerg",
+        "text": "Blah"
     }
 ]
